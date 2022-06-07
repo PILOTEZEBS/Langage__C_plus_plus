@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647882459 source:c:\users\pilote zebs\documents\c\codec++1er\main.cpp
+	<iostream>
+	<String>
+	<math.h>
+
